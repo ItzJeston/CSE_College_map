@@ -16,6 +16,11 @@ This project provides a simple and user-friendly interface for exploring the cam
 * 🎯 Simple and intuitive user experience
 
 ---
+##liveDemo
+
+link-
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -78,6 +83,4 @@ GitHub: https://github.com/ItzJeston
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-##liveDemo
 
-link-
