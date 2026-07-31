@@ -18,7 +18,7 @@ This project provides a simple and user-friendly interface for exploring the cam
 ---
 ##liveDemo
 
-link-
+link- https://itzjeston.github.io/CSE_College_map/
 
 ---
 
